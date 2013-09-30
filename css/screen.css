@@ -4,6 +4,17 @@
 /*
 /*****************************************************************************/
 
+@media screen and (max-device-width: 800px) {
+			.site {
+			  font-size: 110%;
+			  text-align: justify;
+			  width:auto;
+			  margin: 3em auto 2em auto;
+			  line-height: 1.5em;
+			}
+　　}
+
+
 /* Global Reset */
 
 * {
